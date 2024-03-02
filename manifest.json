@@ -3,7 +3,7 @@
   "short_name": "Timer",
   "icons": [
     {
-      "src": "gobbelin.png",
+      "src": "/timer/gobbelin.png",
       "sizes": "192x192",
       "type": "image/png"
     }
